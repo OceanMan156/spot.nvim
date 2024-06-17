@@ -1,0 +1,13 @@
+==================================================================================
+                                                                     *spot.nvim*
+
+This plugin allows you to use spotify from within nvim with the use
+of a spotify developer account. See examples below
+
+
+                                                                   *spot.play()*
+spot.play()
+
+  Start playback for current spotify device
+
+vim:tw=78:ts=8:ft=help:norl:
