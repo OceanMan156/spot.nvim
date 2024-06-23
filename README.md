@@ -7,27 +7,35 @@ Spotify in neovim
 `spot.nvim` allows you to browse, play and pause your spotify music
 directly from your neovim instance.
 
+## Table of contents
+
+* [Requirements](*requirements)
+* [Features](*features)
+* [Planed Features](*planed)
+* [Installation](*installation)
+* [Setup](*setup)
+* [Usage](*usage)
+
 ## Requirements
 
-    1. [Telescope](https://github.com/nvim-telescope/telescope.nvim)
-    2. [Plenary](https://github.com/nvim-lua/plenary.nvim)
-
-    Spotify for developer account
-        - A client refresh token
+1. [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+2. [Plenary](https://github.com/nvim-lua/plenary.nvim)
+3. Spotify for developer account
+    - A client refresh token
 
 ## Features
 
-    - Ability to browse user playlist
-    - Ability to browse songs in playlist
-    - Ability play/pause
-    - Ability to skip song
+- Ability to browse user playlist
+- Ability to browse songs in playlist
+- Ability play/pause
+- Ability to skip song
 
 ### Planed Features
 
-    - Ability to choose playback device
-    - Ability to view current queue
-    - Ability to add songs to queue
-    - Properly handle pagination with playlist with over 100 songs
+- Ability to choose playback device
+- Ability to view current queue
+- Ability to add songs to queue
+- Properly handle pagination with playlist with over 100 songs
 
 ## Installation
 
