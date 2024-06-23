@@ -9,12 +9,12 @@ directly from your neovim instance.
 
 ## Table of contents
 
-* [Requirements](*requirements)
-* [Features](*features)
-* [Planed Features](*planed)
-* [Installation](*installation)
-* [Setup](*setup)
-* [Usage](*usage)
+* [Requirements](#requirements)
+* [Features](#features)
+* [Planed Features](#planned-features)
+* [Installation](#installation)
+* [Setup](#setup)
+* [Usage](#usage)
 
 ## Requirements
 
@@ -30,7 +30,7 @@ directly from your neovim instance.
 - Ability play/pause
 - Ability to skip song
 
-### Planed Features
+### Planned Features
 
 - Ability to choose playback device
 - Ability to view current queue
