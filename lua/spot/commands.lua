@@ -90,6 +90,7 @@ M.next = function ()
   local res = curl.post(url, {
     headers = {
       Authorization = "Bearer " .. token,
+      Content_Length = 0
     },
   })
 
